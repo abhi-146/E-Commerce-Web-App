@@ -21,3 +21,6 @@ Admin needs to login to manage products. He/She must have admin access to manage
 ![Mange categories](https://github.com/abhi-146/E-Commerce-Web-App/blob/master/src/main/resources/static/images/ManageCategories.png)
 
 ![Manage products](https://github.com/abhi-146/E-Commerce-Web-App/blob/master/src/main/resources/static/images/ManageProducts.png)
+
+Shop page can be access without login:
+![Explore products](https://github.com/abhi-146/E-Commerce-Web-App/blob/master/src/main/resources/static/images/ExploreProducts.png)
