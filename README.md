@@ -14,3 +14,6 @@ This web app has two user: Admin and User.
 
 * Admin: The admin can add new products of different products belonging categories.
 * User: The User can explore the products and add them to the cart.
+
+Admin needs to login to manage products. He/She must have admin access to manage the products:
+![Admin](https://github.com/abhi-146/E-Commerce-Web-App/blob/master/src/main/resources/static/images/Login.png)
