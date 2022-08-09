@@ -220,3 +220,6 @@ USERS SELECT * FROM USER_ROLE [42001-200]
 2022-08-05 23:34:51 jdbc[13]: exception
 org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "USERS[*] SELECT * FROM USER_ROLE"; expected "UPDATE, USE"; SQL statement:
 USERS SELECT * FROM USER_ROLE [42001-200]
+2022-08-09 11:23:04 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "PRODUCT[*] SELECT * FROM USER_ROLE"; expected "PREPARE"; SQL statement:
+PRODUCT SELECT * FROM USER_ROLE [42001-200]
